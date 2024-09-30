@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learn C with The xv6 Kernel
+title: Index
 nav_order: 0
 description: "Learn-C-with-The-xv6-Kernel"
 permalink: /
